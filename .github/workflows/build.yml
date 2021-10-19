@@ -16,7 +16,7 @@ jobs:
           libboost1.67-dev \
           build-essential \
           libssl-dev \
-          fuse
+          libfuse-dev \
     - name: Build
       run: |
         mkdir build
