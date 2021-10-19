@@ -13,7 +13,7 @@ jobs:
       run: |
         sudo apt-get update
         sudo apt-get install -yq \
-          libboost1.65-dev \
+          libboost1.67-dev \
           build-essential \
           libssl-dev \
           fuse
