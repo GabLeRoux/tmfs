@@ -43,7 +43,7 @@ Sparsebundle Disk Images
 
 I haven't used it myself and I can't comment too much on it, but in short you should be able to mount a sparse bundle using https://github.com/torarnv/sparsebundlefs and then mount tmfs on top of it. Please have a look at their project page there should be further explanation.
 
-Dependancies
+Dependencies
 ------------
 
  - c++ 17
